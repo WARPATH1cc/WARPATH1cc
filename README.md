@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WARPATH1cc a.k.a Christian Cornelakis
-- 👀 I’m interested in robotics, IA and automation.
-- 🌱 I’m currently learning RPA
+- 👀 I’m interested in Javascript.
+- 🌱 I’m currently learning Frontend & Backend development.
 - 📫 Reach me at LinkedIn or PM!
 
 <!---
